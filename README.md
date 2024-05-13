@@ -1,1 +1,1 @@
-# JDBC-Layered-App
+Implemented CRUD operations by using JDBC and Oracle Database. User can perform insertion , deletion , updation and search operations using this application and the data will be stored in Oracle Database.
